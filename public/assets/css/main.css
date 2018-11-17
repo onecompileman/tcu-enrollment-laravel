@@ -1,0 +1,50 @@
+  div,
+  nav,
+  button {
+    border-radius: 0 !important;
+  }
+
+  body {
+    background-color: whitesmoke;
+  }
+
+  div {
+    border-radius: 0 !important;
+  }
+
+  .dashboard-item {
+    background-color: #45B3CE;
+    color: white;
+    cursor: pointer;
+    display: block;
+    height: 150px;
+    margin: 5px;
+    padding: 6px;
+    text-align: center;
+  }
+
+  .dashboard-item i {
+    font-size: 40px;
+  }
+
+  .page-title {
+    color: #45B3CE;
+    margin-top: 15px;
+  }
+
+  .login-panel {
+    margin-top: 150px;
+  }
+
+  textarea,
+  input {
+    border-radius: 0 !important;
+  }
+
+  #loginBtn {
+    width: 200px;
+  }
+
+  .required {
+    color: red;
+  }
